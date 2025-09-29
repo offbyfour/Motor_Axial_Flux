@@ -3,10 +3,18 @@ This is the project page for an open source Axial Flux Motor. The goal of this p
 
 <img width="604" height="456" alt="image" src="https://github.com/user-attachments/assets/95295b30-525a-4a2c-a3a0-ed3a5753eecf" />
 
+## Specifications
+
+
+## Construction
+The current design consists of 4 parts: PCBs, Magnets, Stator Housing and Rotor Housing.
+
+The design will use 4x 6-layer, 2oz PCBs with 3 phases wired as shown:
 <img width="625" height="579" alt="image" src="https://github.com/user-attachments/assets/47b375d2-9649-4bfc-9e67-b3e067a868c2" />
 
+The magnets will be off the shelf, rectangular pieces arranged as shown:
 
-
+<img width="531" height="485" alt="image" src="https://github.com/user-attachments/assets/9b7d5c5a-84cf-414a-bec0-4ed502b5b09c" />
 
 
 
