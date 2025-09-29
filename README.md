@@ -14,4 +14,4 @@ This is the project page for an open source Axial Flux Motor. The goal of this p
 
 <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/4eff57e3-ac06-48fe-8114-b59e78c0e51f" width="475" height="125" /> 
 
-Right now this project is in the research stage. If you would like to contribute in any way feel free to create an issue or pull request. 
+Right now this project is in the design/simulation stage. If you would like to contribute in any way feel free to create an issue or pull request. 
