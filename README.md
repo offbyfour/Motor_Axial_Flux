@@ -6,7 +6,9 @@ This is the project page for an open source Axial Flux Motor. The goal of this p
 ## Specifications
 
 Voltage= 48V-60V
+
 Power = 1.2kW - 2kW ???TBD
+
 Size = <100mm diameter
 
 ## Construction
