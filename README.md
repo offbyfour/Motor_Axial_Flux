@@ -1,7 +1,7 @@
 # Motor_Axial_Flux
 This is the project page for an open source Axial Flux Motor. The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish. 
 
-<img width="477" height="460" alt="image" src="https://github.com/user-attachments/assets/e710459b-f9fb-452f-9ffc-f85d7eee24fc" />
+<img width="748" height="431" alt="Assembled_View" src="https://github.com/user-attachments/assets/cb20146f-a5b9-48b6-a46d-56089819a553" />
 
 
 <img width="819" height="499" alt="Exploded_View" src="https://github.com/user-attachments/assets/7e4136a3-2813-4940-b785-c0ce806e62f7" />
