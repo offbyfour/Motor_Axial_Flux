@@ -10,7 +10,7 @@ Voltage= 48V-60V
 
 Power = 1.2kW - 2kW ???TBD
 
-Size = <100mm diameter
+Size = 105mm diameter
 
 ## Construction
 The current design consists of 4 parts: PCBs, Magnets, Stator Housing and Rotor Housing.
